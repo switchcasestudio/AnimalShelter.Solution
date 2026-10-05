@@ -73,7 +73,7 @@ A web Api that allows the user to make API calls in order to check the database.
 2. Change your directory to where you would want the cloned directory.
 3. Input the following command into your terminal:
    > ```bash
-   > $ git clone https://github.com/Object-ions/AnimalShelter.Solution.git
+   > $ git clone https://github.com/switchcasestudio/AnimalShelter.Solution.git
    > ```
 
 #### Set up a Connection String to Database
